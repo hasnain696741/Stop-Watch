@@ -1,0 +1,16 @@
+.firstdiv{
+    justify-content: center;
+    display:flex;
+    background-color:black;
+    color: white;
+    height: 200px;
+}
+h1{
+    width: 60px;
+   
+}
+.secdiv{
+    justify-content: center;
+    display:flex;
+  
+}
